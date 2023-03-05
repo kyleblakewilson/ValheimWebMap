@@ -1,7 +1,7 @@
 {
-    "name": "WebMap",
-    "description": "A Valheim dedicated server mod to host a web accessible map.",
-    "website_url": "https://github.com/kylepaulsen/ValheimWebMap",
-    "version_number": "1.2.0",
-    "dependencies": []
+  "name": "Valheim Web Map",
+  "description": "A Valheim dedicated server mod to host a interactivce web accessible map.",
+  "website_url": "https://github.com/kyleblakewilson/ValheimWebMap",
+  "version_number": "1.0",
+  "dependencies": []
 }
